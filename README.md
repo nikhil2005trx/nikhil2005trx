@@ -60,30 +60,24 @@
 
 ---
 
-### 📌 Featured Repos
-<p align="left">
-  <a href="https://github.com/nikhil2005trx/Tic-Tac-Toe-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil2005trx&repo=Tic-Tac-Toe-&theme=radical&border_color=7c3aed" />
-  </a>
-  <a href="https://github.com/nikhil2005trx/your-next-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhil2005trx&repo=your-next-repo&theme=radical&border_color=00d9ff" />
-  </a>
-</p>
-
----
-
 ### 📈 Stats (because progress matters)
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=nikhil2005trx&theme=radical&ring=7c3aed&fire=ff0080&currStreakLabel=00d9ff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhil2005trx&show_icons=true&theme=radical&hide_border=false&rank_icon=github" />
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=nikhil2005trx&theme=radical&ring=7c3aed&fire=ff0080&currStreakLabel=00d9ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil2005trx&show_icons=true&theme=radical&hide_border=false&rank_icon=github" height="165"/>
 </p>
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2005trx&layout=compact&theme=radical" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=nikhil2005trx&theme=dracula&no-frame=true&row=1&column=6" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil2005trx&theme=radical&langs_count=10&hide_border=true" height="185"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhil2005trx&theme=dracula&no-frame=true&row=1&column=6" height="165"/>
 </p>
 
 ---
 
+### 📊 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil2005trx&theme=react-dark&hide_border=true&line=ff0080&point=00d9ff" width="95%"/>
+</p>
+
+---
 ### 🤝 Connect
 <p>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-ff0080?style=for-the-badge" /></a>
