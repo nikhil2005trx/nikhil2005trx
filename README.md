@@ -22,7 +22,6 @@
   <a href="https://leetcode.com/u/Nikhil_Singh2005/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" width="40" alt="LeetCode"/></a>
   <a href="https://www.codechef.com/users/nikhil_singh2"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" width="40" alt="CodeChef"/></a>
 </p>
----
 
 ### 🚀 About Me
 - 🔭 Currently building: React + Node projects (CRUD, Auth, MySQL/Mongo) & sharpening DSA 
@@ -33,22 +32,23 @@
 ---
 
 ### 🧰 Tech Stack (growing weekly)
-<p>
-  <!-- Core -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript" />
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux" />
-  <!-- Learning -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn" />
-  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-111827?style=for-the-badge&logo=blockchain-dot-com" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
 ---
