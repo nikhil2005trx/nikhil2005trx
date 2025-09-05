@@ -79,10 +79,12 @@
 
 ---
 ### 🤝 Connect
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-ff0080?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/Twitter%2FX-111827?style=for-the-badge&logo=x" /></a>
+<p align="left">
+  <a href="mailto:nikhilsingh76666@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/nikhil-singh-580845284/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/></a>
+  <a href="https://x.com/home"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" alt="X/Twitter"/></a>
+  <a href="https://discord.com/channels/@me"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" alt="Discord"/></a>
+  <a href="https://www.instagram.com/__nikhil_024/_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/></a>
 </p>
 
 <!-- Footer Wave -->
