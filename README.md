@@ -54,7 +54,7 @@
 ---
 
 ### 🧩 What I’m Practicing Right Now
-- **Frontend:** Component patterns, state management, clean composition, accessibility  
+- **Frontend:** Advanced JavaScript (ES6+), React, Redux, TypeScript, responsive design  
 - **Backend:** REST design, auth (JWT/cookies), SQL relations, query optimization  
 - **DSA/CP:** arrays, maps/sets, two-pointers, recursion, greedy, basic DP
 
