@@ -1,5 +1,5 @@
 <!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00d9ff,50:7c3aed,100:ff0080&text=Nikhil%20Singh&fontAlign=50&fontColor=ffffff&fontSize=48&desc=Full-Stack%20%7C%20React%20%7C%20Node%20%7C%20DSA%20%7C%20AI%2FML%20Aspirant&descAlign=50&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00d9ff,50:7c3aed,100:ff0080&text=Nikhil%20Singh&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=48&desc=Full-Stack%20%7C%20React%20%7C%20Node%20%7C%20DSA%20%7C%20AI%2FML%20Aspirant&descAlign=50&descAlignY=60&descSize=16"/>
 
 <p align="center">
   <a href="https://github.com/nikhil2005trx">
