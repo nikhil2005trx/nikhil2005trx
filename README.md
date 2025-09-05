@@ -25,12 +25,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building: **React + Node** projects (CRUD, Auth, MySQL/Mongo) & sharpening **DSA**  
-- 🌱 Learning next: **AI/ML basics** (Python, NumPy/Pandas, scikit-learn) and **Blockchain fundamentals**  
-- 💬 Ask me about: **JavaScript, React, Node, REST APIs, SQL basics, Git/GitHub**  
-- 🎯 2025 Goals: Ship 2 solid full-stack apps + 1 ML mini-project; polish resume + projects for top-tier companies  
-- ⚡ Fun bit: I love turning boring specs into clean UIs with tiny UX wins
-
+- 🔭 Currently building: React + Node projects (CRUD, Auth, MySQL/Mongo) & sharpening DSA 
+- 🌱  Learning next: Advanced JavaScript, React patterns, and backend optimization  
+- 💬  Ask me about: JavaScript, React, Node, REST APIs, SQL basics, Git/GitHub  
+- 🎯 2025 Goals: Ship 2 solid full-stack apps; polish resume + projects for top-tier companies 
+- ⚡Fun bit: I love solving problems and building practical solutions
 ---
 
 ### 🧰 Tech Stack (growing weekly)
