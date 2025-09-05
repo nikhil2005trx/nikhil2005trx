@@ -10,14 +10,18 @@
 <!-- Right side gif -->
 <img align="right" alt="coding" width="360" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-<!-- Quick badges -->
+<!-- Profile Views Badge -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=nikhil2005trx&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="views" />
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-00d9ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfolio.example.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nikhil2005trx&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<!-- Social Links aligned left -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/nikhil-singh-580845284/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/></a>
+  <a href="https://portfolio.example.com/"><img src="https://cdn-icons-png.flaticon.com/512/726/726056.png" width="40" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/u/Nikhil_Singh2005/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" width="40" alt="LeetCode"/></a>
+  <a href="https://www.codechef.com/users/nikhil_singh2"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" width="40" alt="CodeChef"/></a>
+</p>
 ---
 
 ### 🚀 About Me
